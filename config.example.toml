@@ -1,0 +1,5 @@
+[config]
+secrect_id = ""
+secrect_key = ""
+bucket = ""
+region = ""
